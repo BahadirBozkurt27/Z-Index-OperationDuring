@@ -1,0 +1,15 @@
+/* Sayfanın alt kısmı ile ilgili background color */
+body {
+  background-color: #cadabf;
+}
+
+/* Ana sayfanın üst kısmının background color */
+.app {
+  background-color: #b5cfb7;
+}
+
+/* Butonların üzerindeki açıklama yazısı ile ilgili margin ayarı */
+.p1 {
+  margin-top: 10%;
+}
+
