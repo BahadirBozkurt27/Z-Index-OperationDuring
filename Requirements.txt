@@ -1,0 +1,2 @@
+
+For the code to work, "npm" must be installed and REACT must be downloaded. ($ npm install -D vite)
